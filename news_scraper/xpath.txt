@@ -1,0 +1,7 @@
+Learn more about Xpath in 
+***************** https://devhints.io/xpath *************
+
+Links = //text-fill[not(@class)]/a/@href
+Title = //div[@class="mb-auto"]/h2/a/text()
+Summary = //div[@class="wrap-post col-9"]/div/div[@class="lead"]/p/text()
+Body = //div[@class="html-content"]/p[not(@class)]/text()
